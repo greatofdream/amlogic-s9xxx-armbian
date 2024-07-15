@@ -75,6 +75,7 @@ on:
         options:
           - -ophub
           - -yourname
+          - -meson64
 
 env:
   TZ: America/New_York
